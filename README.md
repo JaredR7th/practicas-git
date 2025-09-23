@@ -1,2 +1,2 @@
-master de readme y QA
-
+<<<<<<< HEAD
+master de readme, QA y develop
