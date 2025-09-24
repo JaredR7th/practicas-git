@@ -1,2 +1,2 @@
 import libs
-imprt libs2
+imprt libs * libs
